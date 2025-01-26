@@ -1,0 +1,12 @@
+[Bb]in/
+[Oo]bj/
+
+*.user
+*.suo
+*.userprefs
+
+packages/
+
+*.log
+*.cache
+*.vs
